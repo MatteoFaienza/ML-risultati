@@ -1,0 +1,3 @@
+aggiungere una colonna con il risultato 1 x 2 della partita precedente dell'italia
+aggiungere colonna con i num gol segnati la partita precedente dell 'italia
+aggiungere colonna con i num gol subiti la partita precedente dell'italia
